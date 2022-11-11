@@ -1,0 +1,8 @@
+- [x] Is there a way to add the name of each image (aka the prompt) above or below the image when it appears? Or perhaps have the name appear when you hover over said image? Oct 7
+- [ ] After pressing the "stop" button to stop the music, how can I make it so the song picks up from where it was stopped after pressing the "play" button again? Oct 7
+- [ ] How can I make sure the music doesn't start playing over itself if I click the "play" button without having clicked the "stop" button? Oct 9
+- [ ] How do I add a "pause" feature that allows the song to keep playing right from when it was stopped? Oct 9
+- [ ] How do I send a GitHub link from a folder within a repository rather than the main repository? Oct 18
+- [ ] How do I get rid of the "undefined" block that appears between the last and first photo when I click on the "Prev" button? Oct 19
+- [ ] How do I make the "Play" and "Stop" button change colors after I click them? Basically, I'd like to have both buttons turn the opposite colors from each other when I click "Play", and then change back when I click "Stop". Oct 21
+- [ ] If I wanted to be able to switch the page to "dark mode", how could I allow the background color to change to a darker color by the click of a button? Nov 4
